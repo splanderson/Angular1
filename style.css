@@ -1,0 +1,29 @@
+h1 {
+  color: #90bede;
+}
+
+p {
+  color: #90bede;
+}
+
+button {
+  border: 2px solid #90bede !important;
+  border-radius: 25px !important;
+  background: #90bede;
+  color: #FFF !important;
+  padding: 10px 30px !important;
+  text-shadow: none !important;
+  box-shadow: none !important;
+  margin-left: 10px;
+}
+
+button:hover {
+background: transparent !important;
+color: #90bede !important;
+}
+
+input {
+  padding: 10px 30px 10px 0;
+  border: 2px solid #90bede;
+  color: #90bede;
+}
